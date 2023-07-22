@@ -8,9 +8,9 @@
     },
     "name": "hlord2000's KiCAD Repository",
     "packages": {
-        "sha256": "73488b354e23032e80bbf6838266c90bdda3e677c1a8471b74431127f18b624e",
-        "update_time_utc": "2023-07-22 06:34:24",
-        "update_timestamp": 1690007664,
+        "sha256": "23eeed5b44070031580270d171561f2f253539a21c2a9f5c06237c2b361189a7",
+        "update_time_utc": "2023-07-22 06:37:40",
+        "update_timestamp": 1690007860,
         "url": "https://raw.githubusercontent.com/hlord2000/hlord2000-kicad-repository/main/packages.json"
     },
     "resources": {
