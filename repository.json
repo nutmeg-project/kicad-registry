@@ -2,21 +2,21 @@
     "$schema": "https://gitlab.com/kicad/code/kicad/-/raw/master/kicad/pcm/schemas/pcm.v1.schema.json#/definitions/Repository",
     "maintainer": {
         "contact": {
-            "twitter": "@bouni2016"
+            "github": "hlord2000"
         },
-        "name": "Bouni"
+        "name": "hlord2000"
     },
-    "name": "Bouni's KiCad repository",
+    "name": "hlord2000's KiCAD Repository",
     "packages": {
         "sha256": "baac62a76603f51dc1bdadc8f196db1348297c005a894c6dbb6326581b66062b",
         "update_time_utc": "2023-07-22 06:17:22",
         "update_timestamp": 1690006642,
-        "url": "https://raw.githubusercontent.com/Bouni/bouni-kicad-repository/main/packages.json"
+        "url": "https://raw.githubusercontent.com/hlord2000/hlord2000-kicad-repository/main/packages.json"
     },
     "resources": {
         "sha256": "7e035e43f934b74adc440889c0df06aa227dbd6febab162b245b72f2a80eb985",
         "update_time_utc": "2021-12-09 08:03:00",
         "update_timestamp": 1639033380,
-        "url": "https://github.com/Bouni/bouni-kicad-repository/raw/main/resources.zip"
+        "url": "https://github.com/hlord2000/hlord2000-kicad-repository/raw/main/resources.zip"
     }
 }
