@@ -32,6 +32,15 @@
                     "download_size": 73487,
                     "download_url": "https://github.com/hlord2000/nordic-lib-kicad/releases/download/2023.07.22/KiCAD-PCM-2023.07.22.zip",
                     "install_size": 689420
+                },
+                {
+                    "version": "2023.07.22.1",
+                    "status": "testing",
+                    "kicad_version": "6.0",
+                    "download_sha256": "c551117d9b3b2cb959635fa31d6441776d56d451c91ccd92c9df9d5a4a037940",
+                    "download_size": 73491,
+                    "download_url": "https://github.com/hlord2000/nordic-lib-kicad/releases/download/2023.07.22.1/KiCAD-PCM-2023.07.22.1.zip",
+                    "install_size": 689424
                 }
             ]
         }
