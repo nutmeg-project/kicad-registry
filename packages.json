@@ -23,7 +23,17 @@
             "resources": {
                 "homepage": "https://github.com/hlord2000/nordic-lib-kicad"
             },
-            "versions":[]
+            "versions": [
+                {
+                    "version": "v0.0.4-alpha",
+                    "status": "testing",
+                    "kicad_version": "6.0",
+                    "download_sha256": "85b43734bea21fec2082b018b73f28825e780d1bdec80661bca50c75b358b8b1",
+                    "download_size": 73490,
+                    "download_url": "https://github.com/hlord2000/nordic-lib-kicad/releases/download/v0.0.4-alpha/KiCAD-PCM-v0.0.4-alpha.zip",
+                    "install_size": 689424
+                }
+            ]
         }
     ]
 }
