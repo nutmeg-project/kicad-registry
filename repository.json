@@ -14,7 +14,7 @@
         "url": "https://raw.githubusercontent.com/hlord2000/hlord2000-kicad-repository/main/packages.json"
     },
     "resources": {
-        "sha256": "24a492522061385e5f221574c49b23b13375938b25500b49f0c4134a2f385351",
+        "sha256": "7b8ab5bf8147049d5010944e475d71aa0a446554b1850a1fee219f819f449b0b",
         "update_time_utc": "2022-07-22 17:04:27",
         "update_timestamp": 1647158667,
         "url": "https://github.com/hlord2000/hlord2000-kicad-repository/raw/main/resources.zip"
