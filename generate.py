@@ -15,7 +15,7 @@ with open("packages.json", "r+") as f:
     info = {
           "version": VERSION,
           "status": "testing",
-          "kicad_version": "6.0",
+          "kicad_version": "7.0",
           "download_sha256": DOWNLOAD_SHA256,
           "download_size": int(DOWNLOAD_SIZE),
           "download_url": DOWNLOAD_URL, 
