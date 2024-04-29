@@ -4,11 +4,12 @@ import hashlib
 import time
 from datetime import datetime as dt
 
-VERSION=sys.argv[1]
-DOWNLOAD_SHA256=sys.argv[2]
-DOWNLOAD_SIZE=sys.argv[3]
-DOWNLOAD_URL=sys.argv[4]
-INSTALL_SIZE=sys.argv[5]
+PACKAGE=sys.argv[1]
+VERSION=sys.argv[2]
+DOWNLOAD_SHA256=sys.argv[3]
+DOWNLOAD_SIZE=sys.argv[4]
+DOWNLOAD_URL=sys.argv[5]
+INSTALL_SIZE=sys.argv[6]
 
 with open("packages.json", "r+") as f:
     data = json.load(f)
@@ -21,15 +22,18 @@ with open("packages.json", "r+") as f:
           "download_url": DOWNLOAD_URL, 
           "install_size": int(INSTALL_SIZE)
     }
+    package_index = next((i for i, e in enumerate(data["packages"]) if e["identifier"] == PACKAGE), None)
+    if package_index is None:
+        raise Exception("package not found")
     index = None
-    for i, version in enumerate(data["packages"][0]["versions"]):
+    for i, version in enumerate(data["packages"][package_index]["versions"]):
         if version["version"] == VERSION:
             index = i
             break
     if index is not None:
-        data["packages"][0]["versions"][index] = info
+        data["packages"][package_index]["versions"][index] = info
     else:
-        data["packages"][0]["versions"].append(info)
+        data["packages"][package_index]["versions"].append(info)
     f.seek(0)
     json.dump(data, f, indent=4)
     f.truncate()

@@ -5,7 +5,7 @@
             "name": "Nordic Semiconductor KiCAD Library",
             "description": "A Nordic Semiconductor Footprint, Symbol, and 3D Library",
             "description_full": "This library includes footprints, symbols, and 3D files for all modern Nordic Semiconductor products.",
-            "identifier": "com.github.hlord2000.nordic-lib-kicad",
+            "identifier": "com.github.nutmeg-project.nordic-lib-kicad",
             "type": "library",
             "author": {
                 "name": "Helmut",
@@ -14,97 +14,16 @@
                 }
             },
             "maintainer": {
-                "name": "Helmut",
+                "name": "Nutmeg Project",
                 "contact": {
-                    "github": "hlord2000"
+                    "github": "nutmeg-project"
                 }
             },
             "license": "MIT",
             "resources": {
-                "homepage": "https://github.com/hlord2000/nordic-lib-kicad"
+                "homepage": "https://github.com/nutmeg-project/nordic-lib-kicad"
             },
             "versions": [
-                {
-                    "version": "2023.07.22",
-                    "status": "testing",
-                    "kicad_version": "7.0",
-                    "download_sha256": "067cf1fd21f307d2c05cb8134255d0e90fc33947c973737d462bcdd2167df28a",
-                    "download_size": 73487,
-                    "download_url": "https://github.com/hlord2000/nordic-lib-kicad/releases/download/2023.07.22/KiCAD-PCM-2023.07.22.zip",
-                    "install_size": 689420
-                },
-                {
-                    "version": "2023.07.24",
-                    "status": "testing",
-                    "kicad_version": "7.0",
-                    "download_sha256": "dc10c91d598840122e45f0d20e68cf43d7c136239ae4288723708e3cc4ad62ba",
-                    "download_size": 94449,
-                    "download_url": "https://github.com/hlord2000/nordic-lib-kicad/releases/download/2023.07.24/KiCAD-PCM-2023.07.24.zip",
-                    "install_size": 784572
-                },
-                {
-                    "version": "2023.07.25",
-                    "status": "testing",
-                    "kicad_version": "7.0",
-                    "download_sha256": "399c10586d9301a2da9382973d0dbf56b697f0a517a4c3ff48e024cfcdc8b1d9",
-                    "download_size": 90139,
-                    "download_url": "https://github.com/hlord2000/nordic-lib-kicad/releases/download/2023.07.25/KiCAD-PCM-2023.07.25.zip",
-                    "install_size": 761439
-                },
-                {
-                    "version": "2023.07.31",
-                    "status": "testing",
-                    "kicad_version": "7.0",
-                    "download_sha256": "405d61e77bef96695b7fea51a9a6fc07cd4d37edd6d69002682df356cee2e790",
-                    "download_size": 332245,
-                    "download_url": "https://github.com/hlord2000/nordic-lib-kicad/releases/download/2023.07.31/KiCAD-PCM-2023.07.31.zip",
-                    "install_size": 2263843
-                },
-                {
-                    "version": "2023.10.27",
-                    "status": "testing",
-                    "kicad_version": "7.0",
-                    "download_sha256": "b0ad534967159a8659d8c5c2da80e76b8c9424e5e46b1b943a71f82d45ca3f84",
-                    "download_size": 333032,
-                    "download_url": "https://github.com/hlord2000/nordic-lib-kicad/releases/download/2023.10.27/KiCAD-PCM-2023.10.27.zip",
-                    "install_size": 2263777
-                },
-                {
-                    "version": "2023.11.14",
-                    "status": "testing",
-                    "kicad_version": "7.0",
-                    "download_sha256": "13a7ad568611f27221f9c74313a1a21fd535340568a99f4afa4f4d1b8ccdd7bf",
-                    "download_size": 333252,
-                    "download_url": "https://github.com/hlord2000/nordic-lib-kicad/releases/download/2023.11.14/KiCAD-PCM-2023.11.14.zip",
-                    "install_size": 2274131
-                },
-                {
-                    "version": "2023.12.08",
-                    "status": "testing",
-                    "kicad_version": "7.0",
-                    "download_sha256": "719bb7df01f2b75204dc2bcf4998337ac972c480e4e62804ec10ca692fcb1317",
-                    "download_size": 320956,
-                    "download_url": "https://github.com/hlord2000/nordic-lib-kicad/releases/download/2023.12.08/KiCAD-PCM-2023.12.08.zip",
-                    "install_size": 2061525
-                },
-                {
-                    "version": "2024.01.19",
-                    "status": "testing",
-                    "kicad_version": "7.0",
-                    "download_sha256": "428280e594f8d9690bd38b9791218028177ddd52dd19997b7f351da259844950",
-                    "download_size": 334188,
-                    "download_url": "https://github.com/hlord2000/nordic-lib-kicad/releases/download/2024.01.19/KiCAD-PCM-2024.01.19.zip",
-                    "install_size": 2147096
-                },
-                {
-                    "version": "2024.03.10",
-                    "status": "testing",
-                    "kicad_version": "7.0",
-                    "download_sha256": "0a56a7d3f146322ef6fa9c3ef4c17f670759e6cf7338fd4555e648441e6379a2",
-                    "download_size": 326912,
-                    "download_url": "https://github.com/hlord2000/nordic-lib-kicad/releases/download/2024.03.10/KiCAD-PCM-2024.03.10.zip",
-                    "install_size": 2010029
-                }
             ]
         }
     ]

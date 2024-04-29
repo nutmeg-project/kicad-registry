@@ -2,21 +2,21 @@
     "$schema": "https://gitlab.com/kicad/code/kicad/-/raw/master/kicad/pcm/schemas/pcm.v1.schema.json#/definitions/Repository",
     "maintainer": {
         "contact": {
-            "github": "hlord2000"
+            "github": "nutmeg-project"
         },
-        "name": "hlord2000"
+        "name": "nutmeg-project"
     },
-    "name": "hlord2000's KiCAD Repository",
+    "name": "Nutmeg's KiCAD Registry",
     "packages": {
         "sha256": "997c8d265f6bdd19baeb5c35f7f09b2dc4eded9ced62ca5d2a063dfeeac227b8",
         "update_time_utc": "2024-03-10 06:10:39",
         "update_timestamp": 1710051039,
-        "url": "https://raw.githubusercontent.com/hlord2000/hlord2000-kicad-repository/main/packages.json"
+        "url": "https://raw.githubusercontent.com/nutmeg-project/kicad-registry/main/packages.json"
     },
     "resources": {
         "sha256": "568763e498556433ac3415d1b24aaac22befb273cbc036b67fb8b496728ba1c6",
         "update_time_utc": "2022-07-22 17:04:27",
         "update_timestamp": 1647158667,
-        "url": "https://github.com/hlord2000/hlord2000-kicad-repository/raw/main/resources.zip"
+        "url": "https://github.com/nutmeg-project/kicad-registry/raw/main/resources.zip"
     }
 }
