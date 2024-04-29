@@ -8,9 +8,9 @@
     },
     "name": "Nutmeg's KiCAD Registry",
     "packages": {
-        "sha256": "997c8d265f6bdd19baeb5c35f7f09b2dc4eded9ced62ca5d2a063dfeeac227b8",
-        "update_time_utc": "2024-03-10 06:10:39",
-        "update_timestamp": 1710051039,
+        "sha256": "8ecc92a1752199ca0055c18586902380e535769ea2fbec6a69aee56a4561b7f3",
+        "update_time_utc": "2024-04-29 12:44:17",
+        "update_timestamp": 1714394657,
         "url": "https://raw.githubusercontent.com/nutmeg-project/kicad-registry/main/packages.json"
     },
     "resources": {
