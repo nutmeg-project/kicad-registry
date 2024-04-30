@@ -11,12 +11,12 @@
         "sha256": "8ecc92a1752199ca0055c18586902380e535769ea2fbec6a69aee56a4561b7f3",
         "update_time_utc": "2024-04-29 12:44:17",
         "update_timestamp": 1714394657,
-        "url": "https://raw.githubusercontent.com/nutmeg-project/kicad-registry/main/packages.json"
+        "url": "https://raw.githubusercontent.com/nutmeg-project/kicad-registry/nutmeg/main/packages.json"
     },
     "resources": {
         "sha256": "568763e498556433ac3415d1b24aaac22befb273cbc036b67fb8b496728ba1c6",
         "update_time_utc": "2022-07-22 17:04:27",
         "update_timestamp": 1647158667,
-        "url": "https://github.com/nutmeg-project/kicad-registry/raw/main/resources.zip"
+        "url": "https://github.com/nutmeg-project/kicad-registry/raw/nutmeg/main/resources.zip"
     }
 }
