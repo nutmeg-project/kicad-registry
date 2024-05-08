@@ -24,6 +24,15 @@
                 "homepage": "https://github.com/nutmeg-project/nordic-lib-kicad"
             },
             "versions": [
+                {
+                    "version": "2024.05.08",
+                    "status": "testing",
+                    "kicad_version": "7.0",
+                    "download_sha256": "5c64b926f80a5ca563a257ae4660c88ae83f9cbabb7ed49d465da67d75bff287",
+                    "download_size": 332292,
+                    "download_url": "https://github.com/nutmeg-project/nordic-lib-kicad/releases/download/nutmeg/2024.05.08/KiCAD-PCM-2024.05.08.zip",
+                    "install_size": 2031095
+                }
             ]
         }
     ]
